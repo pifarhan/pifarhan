@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @pifarhan
 - 👀 I’m interested in Web Devolpement
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on .
+- 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me farhan3.14159@gmail.com 
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am not funny
 
 <!---
