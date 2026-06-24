@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @pifarhan
 - 👀 I’m interested in Web Devolpement
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Google
+- 🌱 I’m currently learning MERN Stack 
 - 📫 How to reach me farhan3.14159@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am not funny
+
 
 <!---
 pifarhan/pifarhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
